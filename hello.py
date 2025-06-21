@@ -1,1 +1,1 @@
-print("Chào Git và GitHub bằng PyCharm!")
+print("Chào PyCharm!")
